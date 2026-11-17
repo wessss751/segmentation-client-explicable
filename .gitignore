@@ -1,0 +1,14 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Données téléchargées automatiquement depuis l'UCI (≈ 70 Mo)
+data/
+
+# Divers
+.claude/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
